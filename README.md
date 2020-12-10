@@ -332,4 +332,4 @@ $ cd /data/wwwroot/freenom/ && php run
 ### 🥝  开源协议
 [MIT](https://opensource.org/licenses/mit-license.php)
 END
-难受，又失败了
+难受
